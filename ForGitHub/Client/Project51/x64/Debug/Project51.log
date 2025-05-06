@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\maxim\source\repos\Client\Source.cpp(185,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\maxim\source\repos\Client\Source.cpp(207,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Project51.vcxproj -> C:\Users\maxim\source\repos\Client\x64\Debug\Project51.exe
